@@ -1,5 +1,4 @@
-<h1>Hi, I'm Tyrel, an <a href="https://linkedin.com/in/tyrel-williams-006854268">IT Professional
-
+<h1>Hi, I'm Tyrel, an <a href="https://linkedin.com/in/tyrel-williams-006854268">IT Professional</a></h1>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
